@@ -1,5 +1,14 @@
 
+## reflection
+
 I’m thinking back and trying to remember who I was as a 10th grader. At that age, you’re not quite an adult; you’re still trying on new environments. A lot of the most impactful stuff is about your identity in relation to the whole.
+
+What were the classes like? The teachers? There were a few points that stood out to me:
+
+1. The classes I remembered most had a real emotional impact on me, whether it was that I felt cared for by my professor and classmates, or fairly isolated. As a general rule, emotional experience seems to have far more longevity than any intellectual one.
+2. Like many folks', the information structure of my curriculum was tree-shaped, with no branching nodes connecting to one another. 
+3. There was emphasis on the individual, instead of the collective. There was an anxious energy of comparing, being evaluated… and I’d assume for some, like for me, that your evaluation became your identity. (“I’m not a math person… But so and so is very clever, etc…”)
+
 ![](https://github.com/kathymakes/teachingasart2018/blob/master/assignments/2_Curriculum/kathy_wu_1.jpg)
 
 
