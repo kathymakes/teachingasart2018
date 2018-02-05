@@ -33,7 +33,7 @@ A day where you and your peers make your own museum, textbook, guided tour; tell
 A day where you are colonizing a new planet together. It looks just like Earth, but without humans. What do you want to keep? What do you leave behind?
 
 
-## philosophies
+## learning outcomes
 
 These are all things I learnt better outside of high school. Here is what I wish for:
 
